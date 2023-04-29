@@ -33,7 +33,7 @@
     <renderMode>auto</renderMode>
     <maximizable>true</maximizable>
     <minimizable>true</minimizable>
-    <resizable>false</resizable>
+    <resizable>true</resizable>
   </initialWindow>
   <icon>
     
